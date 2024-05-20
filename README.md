@@ -2,7 +2,7 @@
 # 3D Model Viewer
 
 ## Demo Link
-[Live Demo](insert-demo-link-here)
+[Live Demo]([insert-demo-link-here](https://drive.google.com/file/d/120RjQ0iaMusw6nK2I70YS8H1VOkoYoyq/view?usp=sharing))
 
 ## Features
 - Display 3D models in GLB format using React
