@@ -1,6 +1,4 @@
-#!/bin/bash
 
-cat << EOF > README.md
 # 3D Model Viewer
 
 ## Demo Link
