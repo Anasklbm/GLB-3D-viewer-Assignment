@@ -19,7 +19,7 @@
 This web application allows users to view 3D models in GLB format using React. The application provides an intuitive interface for navigating and interacting with the 3D models. Users can zoom, rotate, and pan the models to examine them from different angles.
 
 ## Installation
-1. Clone the repository: \`git clone https://github.com/yourusername/3d-model-viewer.git\`
+1. Clone the repository: \`git clone https://github.com/Anasklbm/GLB-3D-viewer-Assignment.git\`
 2. Navigate to the project directory: \`cd 3d-model-viewer\`
 3. Install dependencies: \`npm install\`
 4. Start the development server: \`npm start\`
